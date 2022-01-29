@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nitp.ncdc.gov.ng	TRUE	/	FALSE	1999999999	SSESS8a7f9f605e61d43e2c652899c2490e27	WjQWBSFsdy3mzF27DuBDtBtaPD-5y8g1U6_hr6nwoTM
+.nitp.ncdc.gov.ng	TRUE	/	FALSE	1999999999	SameSite	None
+.ncdc.gov.ng	TRUE	/	FALSE	1999999999	__cf_bm	VEfENmKaKVo14p_BwPf4ce54SlgfAj6JzP.yKVcqQrc-1643391677-0-AbGOZHIkmjjTB5sXq0fhU66vR438PBt1JdsZ4ktXT96t4JC3kSSMBbkv+w1w2+kDTL49D1E5O9iRn8wI9kI+oVs=
+nitp.ncdc.gov.ng	TRUE	/	FALSE	1999999999	SameSite	None
+
